@@ -1,0 +1,17 @@
+export const elements = {
+    searchButton: document.querySelector('.search'),
+    searchInput: document.querySelector('.search__field'),
+    resultResults: document.querySelector('.results__list'),
+    resultPages: document.querySelector('.results__pages__itemperpage'),
+    resultNoOfItems: document.querySelector('.results__pages__noofitems'),
+    resultPagesRadio: document.querySelector('.results__pages__cookingtime'),
+    resultContainer: document.querySelector('.results'),
+    resultLink: document.querySelector('.results__list'),
+    receipeContainer: document.querySelector('.receipe-list'),
+    servingCounter: document.querySelector('.btn-tiny'),
+    addShopping: document.querySelector('.btn-small'),
+    shoppinglist: document.querySelector('.shopping__list'),
+    likesList: document.querySelector('.likes__list'),
+    headerLikes: document.querySelector('.likes'),
+    itemsPerPage: document.querySelector('.form-control'),
+}
